@@ -1,0 +1,506 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Manuel",
+      "surnames": "Alejandro Arguello Henriquez",
+      "title": "Full-stack Web Developer - Cloud IONOS servers @IONOS",
+      "description": "Mi experiencia laboral es muy variada, puedo adaptarme a cualquier tipo de puesto, y considero que de cada uno sacas experiencias positivas que te ayudan a crecer como profesional.\nPero sin duda alguna en el sector que más disfruto es el de las TIC. Creo en la digitalización global y no habrá nada que la pare, es por eso que no me agoto de formarme en este mundo tan cambiante.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/a6df265f-678e-4bba-abeb-fbf4b6db8ff1_linkedin-photo-23059.linkedin-photo-23059",
+        "alt": "24/09/29/a6df265f-678e-4bba-abeb-fbf4b6db8ff1_linkedin-photo-23059.linkedin-photo-23059"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJu9z3TpJLRQ0Rjimbpl76f3g)",
+        "country": "España",
+        "region": "La Rioja"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jandrohen"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Jandronit"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "IONOS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/325efbb1-a6f9-4654-89b1-612e8eacbf10_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/325efbb1-a6f9-4654-89b1-612e8eacbf10_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Web Developer - Cloud IONOS servers",
+            "startDate": "2023-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arsys",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/62116270-2553-41d6-8ba7-8d6cf2d5a0fc_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/62116270-2553-41d6-8ba7-8d6cf2d5a0fc_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Web Developer - Cloud IONOS servers",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Cloud IONOS servers frontend development (Full Stack JS)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bosonit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/d55a047b-b882-46e7-83e3-fe89177fbeee_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/d55a047b-b882-46e7-83e3-fe89177fbeee_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "-Desarrollo de una aplicación WEB de traducción simultánea (Speech to Text)\n-Implementación de una librería Open Source para el procesamiento del texto utilizando un modelo pre-entrenado de Machine Learning (Project Mozilla DeepSpeech)\n-Creación de una API Open Source en entorno local para la aplicación\n-Orquestación del proyecto con Docker y Portainer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bosonit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/2e7e9207-8674-43d8-bd1d-20bd5dc38ef9_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/2e7e9207-8674-43d8-bd1d-20bd5dc38ef9_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2021-05-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "Skills: GitLab · Git · Node.js · Angular · Docker · PostgreSQL · Sequelize.js · Express.js"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cine Yelmo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/f469e2fe-a493-4bf7-a0cc-1fa57ce1ec3a_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/f469e2fe-a493-4bf7-a0cc-1fa57ce1ec3a_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Servicio de atención al cliente",
+            "startDate": "2019-10-01",
+            "finishDate": "2021-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adamo Telecom Iberia S.A.U.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/8a7b2b12-b433-45bc-91ee-e8eff1c88dfa_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/8a7b2b12-b433-45bc-91ee-e8eff1c88dfa_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico instalador de Fibra Óptica (FHTT)",
+            "startDate": "2019-06-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Instalación y puesta en marcha de equipos con Fibra Óptica (FHTT) en domicilios de particulares"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "POESSA STATIONERY/PAPETERIE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/77a55801-315c-48a8-8c6b-b8575cedcd2a_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/77a55801-315c-48a8-8c6b-b8575cedcd2a_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operario de almacén y carretilla",
+            "startDate": "2016-01-01",
+            "finishDate": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingeteam S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/833b0943-523f-4cb5-8bbd-c7da375d560c_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/833b0943-523f-4cb5-8bbd-c7da375d560c_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operario de produccion y puente grúa",
+            "startDate": "2015-01-01",
+            "finishDate": "2017-08-31",
+            "challenges": [
+              {
+                "description": "Empresa líder en el sector de la industria de energías renovables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escuela taller de Nuevas Tecnologias Mancomunidad LLMSS"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de páginas web y Marketing Online",
+            "startDate": "2012-09-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "Skills: HTML5 · Hojas de estilos en cascada (CSS) · Desarrollo web · Redes sociales · Diseño web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Elecnor",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/4be95ed8-0409-48e7-9963-aaf965ea6dc9_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/4be95ed8-0409-48e7-9963-aaf965ea6dc9_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tecnico instalador de Telecomunicaciones.",
+            "startDate": "2009-09-01",
+            "finishDate": "2010-08-31",
+            "challenges": [
+              {
+                "description": "Instalación de lineas de adsl, teléfono e imagenio para telefónica."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MapBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Socket.io",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Desarrollo de Aplicaciones Multiplataforma (Grado Superior Dual) , Programación informática, aplicaciones específicas",
+        "startDate": "2020-01-01",
+        "institution": {
+          "name": "Centro Sagrado Corazón - Jesuitas"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Grado en Ingeniería informática, Ingeniería informática",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/29/32bffdb6-52ea-43a6-8ac5-806bb35373a1_linkedin-photo-23059.linkedin-photo-23059",
+            "alt": "24/09/29/32bffdb6-52ea-43a6-8ac5-806bb35373a1_linkedin-photo-23059.linkedin-photo-23059"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jandrohen",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Jandronit",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería formar parte de un equipo de desarrollo altamente colaborativo y diverso, donde se valore la creatividad y la innovación. Me gustaría participar en proyectos desafiantes que permitan el crecimiento profesional y la adquisición de nuevas habilidades. Además, esperaría estar en un entorno que fomente la mejora continua y brinde oportunidades para compartir conocimientos con mis compañeros. La cultura de empresa y el equilibrio entre vida laboral y personal también serían aspectos importantes en mi trabajo ideal.\n\n## Objetivos Profesionales:\n\nContinuar desarrollando mis habilidades técnicas y mantenerme actualizado con las últimas tendencias en tecnología web.\nColaborar en el desarrollo de aplicaciones web de alto impacto que resuelvan problemas reales.\nContribuir al éxito del equipo y la empresa a través de mi experiencia y dedicación.\nParticipar en proyectos que tengan un impacto positivo en la sociedad y la comunidad."
+  }
+}
