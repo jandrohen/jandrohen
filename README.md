@@ -1,10 +1,10 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
-# Manuel Alejandro Arguello Henriquez's CV
+# Alejandro Argúello CV
 
 This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/815d0bae-f691-4106-846c-2370c089bdc4).
 <br/>
-<br/>
+<br/>c
 
 <div align='center'>
   <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2025-01-10 13:25 UTC&color=brightgreen&style=for-the-badge'>
