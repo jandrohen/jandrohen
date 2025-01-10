@@ -1,6 +1,6 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
-# Alejandro Argúello CV
+# Alejandro Argüello CV
 
 This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/815d0bae-f691-4106-846c-2370c089bdc4).
 <br/>
